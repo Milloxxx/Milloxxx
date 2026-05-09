@@ -31,7 +31,7 @@ I’m a junior Data Scientist who love nature and forest tree models 🌱 . I sp
 
 
 ## Fun things
-- 🐶 my first pet was name was millox, I remember him everyday
+- 🐶 my first pet name was  was millox, I remember him everyday
 - 🌲 I'm always learning and exploring new Techologies 
 - 💻 I like coding and building interesting projects, including models
 - 🤝 if you would like me to collaborate in a project just let me know
