@@ -34,16 +34,7 @@ I’m a junior Data Scientist who love nature and forest tree models 🌱 . I sp
 - 🐶 my first pet was name was millox, I remember him everyday
 - 🌲 I'm always learning and exploring new Techologies 
 - 💻 I like coding and building interesting projects, including models
-- 🤝 if you would like me to collaborate in a project just let me know!
-
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats-6p6a.vercel.app/api/pin/?username=Milloxxx&repo=your-repo-name&theme=tokyonight)]
-
-</div>
+- 🤝 if you would like me to collaborate in a project just let me know
 
 <!-- </div> -->
 <div align="center">
